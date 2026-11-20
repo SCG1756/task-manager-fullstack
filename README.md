@@ -14,20 +14,17 @@ Una aplicación web completa para la gestión de tareas, desarrollada con arquit
 
 ## 🚀 Cómo ejecutar el proyecto
 
-### 1. Backend
-\`\`\`bash
+```bash
+# 1. Levantar el Backend
 cd backend
 npm install
-# Configura tu archivo .env con tus credenciales de MySQL
+# (Recuerda configurar tu archivo .env con tus credenciales de MySQL antes de ejecutar)
 npm run dev
-\`\`\`
 
-### 2. Frontend
-\`\`\`bash
+# 2. Levantar el Frontend (en otra terminal)
 cd frontend
 npm install
 ng serve
-\`\`\`
+```
 
-## 👨‍💻 Autor
-**Simón Cepeda** - (https://github.com/SCG1756)
+**Simón Cepeda (SCG1756)** - [Mi perfil de GitHub](https://github.com/SCG1756)
